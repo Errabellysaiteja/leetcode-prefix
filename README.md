@@ -12,5 +12,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [2571-find-the-pivot-integer](https://github.com/Errabellysaiteja/leetcode-prefix/tree/master/2571-find-the-pivot-integer) |
 | [3311-ant-on-the-boundary](https://github.com/Errabellysaiteja/leetcode-prefix/tree/master/3311-ant-on-the-boundary) |
+## Math
+|  |
+| ------- |
+| [2571-find-the-pivot-integer](https://github.com/Errabellysaiteja/leetcode-prefix/tree/master/2571-find-the-pivot-integer) |
 <!---LeetCode Topics End-->
