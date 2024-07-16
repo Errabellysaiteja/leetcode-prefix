@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Errabellysaiteja/leetcode-prefix/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/Errabellysaiteja/leetcode-prefix/tree/master/0724-find-pivot-index) |
 | [3311-ant-on-the-boundary](https://github.com/Errabellysaiteja/leetcode-prefix/tree/master/3311-ant-on-the-boundary) |
 ## Simulation
 |  |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Errabellysaiteja/leetcode-prefix/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/Errabellysaiteja/leetcode-prefix/tree/master/0724-find-pivot-index) |
 | [2571-find-the-pivot-integer](https://github.com/Errabellysaiteja/leetcode-prefix/tree/master/2571-find-the-pivot-integer) |
 | [3311-ant-on-the-boundary](https://github.com/Errabellysaiteja/leetcode-prefix/tree/master/3311-ant-on-the-boundary) |
 ## Math
